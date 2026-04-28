@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/poly-mcp-blender-mcp-server-badge.png)](https://mseep.ai/app/poly-mcp-blender-mcp-server)
+
 # Blender MCP Server
 
 **Model Context Protocol (MCP) server for complete Blender control via API**
